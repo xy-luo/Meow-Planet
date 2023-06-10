@@ -1,0 +1,13 @@
+.homepage-text-wrapper {
+    margin: 2rem;
+}
+.homepage-title {
+    margin-bottom: 0.5rem;
+    
+    line-height: 2;
+    font-size: 2rem;
+}
+
+.homepage-text-wrapper > p {
+    margin-bottom: 1rem;
+}

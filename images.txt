@@ -1,0 +1,67 @@
+license: https://unsplash.com/license
+
+images in file availableCatImgs
+cat_dm_short_01.jpg https://unsplash.com/photos/ko5vGUk9ILo
+cat_dm_long_01.jpg https://unsplash.com/photos/5jAjtBTZHLU
+cat_dm_short_02.jpg https://unsplash.com/photos/MgrEuJOtayk 
+cat_dm_short_03.jpg https://unsplash.com/photos/KcSPTCB2KUA
+cat_siamese_01.jpg https://unsplash.com/photos/IFxjDdqK_0U
+cat_dm_short_04.jpg https://unsplash.com/photos/ANEtDPAHz5Q
+
+
+images in file shopItemImgs
+Treat
+cat_cake_01.jpg https://unsplash.com/photos/FReocFYzRaA
+cat_treat_01.jpg https://unsplash.com/photos/vi3yGOPBZSY
+cat_treat_02.jpg https://unsplash.com/photos/KgmSAEncZDw
+cat_treat_03.jpg https://unsplash.com/photos/xQMYgqj38Vo
+
+toy
+cat_teaser_01.jpg https://unsplash.com/photos/3lovxIcj6y8
+cat_toy_01.jpg https://unsplash.com/photos/fEK4jvgnApg
+
+supplies
+cat_bowl_01.jpg https://unsplash.com/photos/p-JX5Xk7Zoc
+cat_bowl_02.jpg https://unsplash.com/photos/q9HWfccm4-0
+cat_bowl_03.jpg https://unsplash.com/photos/uwYxXpF3q6g
+
+furniture
+cat_tree_01.jpg https://unsplash.com/photos/L2fMcKCwxQQ
+cat_tree_02.jpg https://unsplash.com/photos/bdz5cxHpkTk
+cat_tree_03.jpg https://unsplash.com/photos/I-rgDPLKogs
+cat_bed_01.jpg https://unsplash.com/photos/A7nK49HCqSI
+cat_bed_02.jpg https://unsplash.com/photos/oyvbAAk0p6g
+cat_bed_03.jpg https://unsplash.com/photos/JzXbWRfh_gQ
+cat_tent_01.jpg https://unsplash.com/photos/bxvrvRNxksg
+
+travel
+cat_carrier_01.jpg https://unsplash.com/photos/CVS4kWJaYLs
+cat_carrier_02.jpg https://unsplash.com/photos/nnjddfn2SpA
+cat_carrier_03.jpg https://unsplash.com/photos/Ea8rP2Ebp_4
+
+cat wear
+cat_scarf_01.jpg https://unsplash.com/photos/Hbjot7zLWw0
+cat_bow_tie_01.jpg https://unsplash.com/photos/bee5Gdd0EMI
+cat_bow_tie_02.jpg https://unsplash.com/photos/DSMW1PjDOZA
+cat_glasses_01.jpg https://unsplash.com/photos/4eILKi8owpo
+cat_glasses_02.jpg https://unsplash.com/photos/yMSecCHsIBc
+cat_costume_01.jpg https://unsplash.com/photos/yEOb6VU_iUE
+cat_costume_02.jpg https://unsplash.com/photos/FMd10pmdrDM
+cat_costume_03.jpg https://unsplash.com/photos/w8xr5A2MB9g
+cat_triangle_towel_01.jpg https://unsplash.com/photos/SVDH3CWMzeY
+cat_triangle_towel_02.jpg https://unsplash.com/photos/URmzu1B-agM
+cat_triangle_towel_03.jpg https://unsplash.com/photos/CZAl8HIdmfc
+cat_hat_01.jpg https://unsplash.com/photos/SVDH3CWMzeY
+cat_hat_02.jpg https://unsplash.com/photos/g1yzlPxztgY
+
+
+images in file homepageImgs
+cat_01.jpg https://unsplash.com/photos/N_G2Sqdy9QY
+cat_02.jpg https://unsplash.com/photos/0iNLhORjMGM
+cat_03.jpg https://unsplash.com/photos/GtwiBmtJvaU
+cat_04.jpg https://unsplash.com/photos/gKXKBY-C-Dk
+cat_05.jpg https://unsplash.com/photos/9gz3wfHr65U
+
+
+My own images
+logo.png
